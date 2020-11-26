@@ -1,5 +1,9 @@
 package com.example.app;
 
+/**
+ * A sample JUnit test, so you can practice on JUnit or Cucumber
+ */
+
 import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.assertEquals;
