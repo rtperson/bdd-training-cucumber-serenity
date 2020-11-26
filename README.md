@@ -1,4 +1,4 @@
-# bdd-training-java
+# bdd-training-cucumber-serenity
 Sample project for BDD training
 
 This starter app uses Serenity, which has some great reporting capabilities, but also has its share of drawbacks:
